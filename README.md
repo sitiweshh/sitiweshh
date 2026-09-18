@@ -1,4 +1,4 @@
-- ### hi, i'm siti ♡
+- ### hi, i'm sitiwesh ♡
 developer in progress — building things i actually care about.
 currently into web development, mobile apps & pretty interfaces ✦
 
