@@ -1,8 +1,8 @@
 - ### hi, i'm siti ♡
 developer in progress — building things i actually care about.
-currently into web development, mobile apps & pretty interfaces 
+currently into web development, mobile apps & pretty interfaces ✦
 
-✦`code` `create` `learn` `repeat`
+`code` `create` `learn` `repeat`
 
 📮 natashya18@gmail.com
 
