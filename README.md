@@ -4,7 +4,7 @@ currently into web development, mobile apps & pretty interfaces ✦
 
 `code` `create` `learn` `repeat`
 
-📮 natashya18@gmail.com
+📮 natashya186@gmail.com
 
 <!---
 sitiweshh/sitiweshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
